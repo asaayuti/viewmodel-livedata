@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewModel n ViewData</string>
+    <string name="count">count</string>
+</resources>
